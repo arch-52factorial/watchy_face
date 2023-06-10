@@ -6,7 +6,7 @@
 
 //Weather Settings
 #define CITY_ID "2633548" //Worle, GB https://openweathermap.org/current#cityid
-#define OPENWEATHERMAP_APIKEY "3f5e578d4966f4dfbe42de482d6d809c" //use your own API key :)
+#define OPENWEATHERMAP_APIKEY "" //use your own API key :)
 #define OPENWEATHERMAP_URL "http://api.openweathermap.org/data/2.5/weather?id=" //open weather api
 #define TEMP_UNIT "metric" //metric = Celsius , imperial = Fahrenheit
 #define TEMP_LANG "en"
